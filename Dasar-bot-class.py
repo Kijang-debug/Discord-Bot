@@ -425,3 +425,5 @@ async def deteksi(ctx):
             await ctx.send(file=picture)
     else:
         await ctx.send("Anda lupa mengunggah gambar :(")
+
+bot.run("enter your token")
