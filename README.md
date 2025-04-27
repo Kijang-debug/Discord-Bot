@@ -1,0 +1,46 @@
+english:
+ $on_ready=Prints the bot's name and ID in terminal confirming that the bot has successfully connected.,
+ maths = $add $minus $times $div,
+ $repeat = repeating words,
+ $pw = generating pass,
+ $coinfilip = coinflip,
+ $dice = dice,
+ $mem = randomly picks a file in the file list/folder,
+ $joined = says when a member joined,
+ $tulis = write the things u said (create a file named kalimat.txt),
+ $tambah = adds a new line of text in kalimat.txt,
+ $baca = reads the texts in kalimat.txt,
+ $meme = create a meme(need a folder called meme with images inside),
+ $dog = sends a dog image, 
+ $duck = sends a duck image,
+ $go = sends a pokemon image,
+ $local_drive = show images in folder that u uploaded
+ $show_file= shows a file that u uploaded,
+ $simpan = upload a file,
+ $impossible = impossible game(choose a num between 1-100),
+ $tictactoe = tictactoe,
+ $deteksi = detection(need a folder named "CV")
+
+
+Indonesian:
+$on_ready=Mencetak nama dan ID bot di terminal untuk mengonfirmasi bahwa bot telah berhasil terhubung.,
+matematika = @add @minus @times @div,
+$repeat = mengulangi kata-kata,
+$pw = menghasilkan password,
+ $coinfilip = lempar koin,
+ $dice = dadu,
+ $mem = memilih file secara acak di daftar file/folder,
+ $joined = mengatakan kapan seorang anggota bergabung,
+ $tulis = tuliskan hal-hal yang kamu katakan (buat file bernama kalimat.txt),
+ $tambah = menambahkan baris teks baru di kalimat.txt,
+ $baca = membaca teks dalam kalimat.txt,
+ $meme = buat meme (perlu folder bernama meme dengan gambar di dalamnya),
+ $dog = mengirim gambar anjing,
+ $duck = mengirim gambar bebek,
+ $go = mengirim gambar pokemon,
+ $local_drive = tampilkan gambar dalam folder yang Anda unggah
+ $show_file= menunjukkan file yang Anda unggah,
+ $simpan = unggah file,
+ $impossible = permainan yang mustahil (pilih angka antara 1-100),
+ $tictactoe = tictactoe,
+ $deteksi = deteksi (perlu folder bernama "CV")
